@@ -12,6 +12,9 @@
 
 * Sistemde install dosyaları ve kodları kurulumdan sonra tamamen kaldırılır.
 
+## Demo :
+
+http://sub.yalcinuzun.com.tr
 
 
 ### Eksikler : 
