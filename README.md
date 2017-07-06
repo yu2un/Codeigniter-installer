@@ -1,4 +1,3 @@
-# -| Test aşamasında |-
 
 # Codeigniter-installer
 
