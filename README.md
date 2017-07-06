@@ -3,8 +3,6 @@
 
 ## Kolay kurulum
 
-### 2 Farklı kurulum dosyası
-
 * Kaynak dosylar ile
 * Mevcut güncel codeigniter ile
 
