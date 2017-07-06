@@ -14,7 +14,7 @@
 
 ## Demo :
 
-http://sub.yalcinuzun.com.tr
+http://sub.yalcinuzun.com.tr/install
 
 
 ### Eksikler : 
